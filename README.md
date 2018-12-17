@@ -6,7 +6,10 @@
  </head>
  
  <body>
-<h2 style="color: purple">Black Panther</h2>
+ <style> 
+ h2 {color: purple;}
+ </style>
+<h2>Black Panther</h2>
 <main>
  
   <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags"> </a> 
