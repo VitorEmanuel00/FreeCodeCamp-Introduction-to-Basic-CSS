@@ -2,14 +2,16 @@
 <html>
 <!-- Introduction-to-Basic-CSS-->
 <head>
- <h1 id= "Wakanda forever"> Wakanda Forever</h1>
- </head>
+<h1 id= "Wakanda forever"> Wakanda Forever
+</h1>
+</head>
  
  <body>
  <style> 
  h2 {color: purple;}
  </style>
-<h2>Black Panther</h2>
+<h2>Black Panther
+</h2>
 <main>
  
   <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags"> </a> 
@@ -53,10 +55,14 @@
   
   <a href = "#wakanda forever"> WF</a>
   <br>
-  
+  <div>
 <form action="/submit-afrofuturist-picture">
- <input type="text" required placeholder="Afrofuturism URL"> <button type="submit">Submit</button>
- 
+<br>
+<input type="text" required placeholder="Afrofuturism URL"> 
+<button type="submit">Submit
+</button>
+</br>
+ <br>
  <label for="indoor"> 
  <input id="indoor" type="radio" name="indoor-outdoor"checked>Indoor 
  </label>
@@ -64,15 +70,22 @@
  <label for="outdoor"> 
  <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor 
  </label>
- 
- <label for="Vox's"><input id="Vox's" type="checkbox" name="Links liked" checked> Vox</label>
+ </br>
+<br>
+ <label for="Vox's">
+ <input id="Vox's" type="checkbox" name="Links liked" checked> Vox
+ </label>
 
- <label for="bbc's"><input id="bbc's" type="checkbox" name="Links liked"> BBC</label>
+ <label for="bbc's">
+ <input id="bbc's" type="checkbox" name="Links liked"> BBC
+ </label>
 
- <label for="Indiewire's"><input id="Indiewire's" type="checkbox" name="Links liked"> IndieWire</label>
- 
+ <label for="Indiewire's">
+ <input id="Indiewire's" type="checkbox" name="Links liked"> IndieWire
+ </label>
+ </br>
 </form>
-
+</div>
  <!--That form isn't showing in the preview. I need to make a pull request or an issue... I just need some help.--> </br>
 </main>
 </body>
