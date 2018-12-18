@@ -8,6 +8,9 @@
  
  <body>
  <style> 
+  
+ h1 {font-size: 30px;}
+  
  main {color: Rich Black;}
   
  .purple-text {color: purple;}
