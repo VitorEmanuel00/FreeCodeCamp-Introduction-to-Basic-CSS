@@ -9,6 +9,8 @@
  <body>
  <style> 
   
+ html {font-family: monospace;}
+  
  h1 {font-size: 30px;}
   
  main {color: Rich Black;}
