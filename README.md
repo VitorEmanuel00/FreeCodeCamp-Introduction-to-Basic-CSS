@@ -8,7 +8,7 @@
  
  <body>
  <style> 
- h2 {color: purple;}
+ html {color: purple;}
  </style>
 <h2>Black Panther
 </h2>
