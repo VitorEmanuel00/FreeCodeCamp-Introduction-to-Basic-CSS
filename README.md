@@ -8,9 +8,11 @@
  
  <body>
  <style> 
- html {color: purple;}
+ main {color: Rich Black;}
+  
+ .purple-text {color: purple;}
  </style>
-<h2>Black Panther
+<h2 class='purple-text'>Black Panther
 </h2>
 <main>
  
