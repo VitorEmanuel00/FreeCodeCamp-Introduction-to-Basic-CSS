@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!-- Introduction-to-Basic-CSS-->
-<head>
+<head class='purple-text'>
 <h1 id= "Wakanda forever"> Wakanda Forever
 </h1>
 </head>
