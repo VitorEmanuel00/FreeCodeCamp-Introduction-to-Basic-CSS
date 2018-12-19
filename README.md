@@ -10,6 +10,8 @@
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
   
+ .smaller-image { width: 300px;}
+  
  html {font-family: "Kanit Thin", "Zilap Africa";}
   
  h1 {font-size: 30px;}
@@ -23,7 +25,7 @@
 </h2>
 <main>
  <br>
-  <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags"> </a> 
+  <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags" class="smaller-image"> </a> 
   
   </br>
   <br>
