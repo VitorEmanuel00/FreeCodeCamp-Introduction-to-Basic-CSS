@@ -7,9 +7,10 @@
 </head>
  
  <body>
+ <link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">
  <style> 
   
- html {font-family: monospace;}
+ html {font-family: "Kanit Thin";}
   
  h1 {font-size: 30px;}
   
@@ -21,8 +22,10 @@
 <h2 class='purple-text'>Black Panther
 </h2>
 <main>
- 
+ <br>
   <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags"> </a> 
+  
+  </br>
   <br>
   <a href="https://www.vox.com/culture/2018/2/23/17028826/black-panther-wakanda-culture-marvel"> Black Panther is a gorgeous, groundbreaking celebration of black culture</a> </br>
   <br>
@@ -34,11 +37,14 @@
   <a href="https://www.youtube.com/watch?v=jlPwTMMhGGI"> Afrofuturism mixes sci-fi and social justice. Here’s how it works.</a>
   </br>
          
+
+<br>
   <p>Black Panther is the first superhero of African descent in mainstream American comics, having debuted years before early      African American superheroes such as Marvel Comics' the Falcon (1969), Luke Cage (1972) and Blade (1973), or DC Comics' John    Stewart in the role of Green Lantern (1971).</p>
   
   <p>The character was        created by writer-editor Stan Lee and writer-artist Jack Kirby, first appearing in Fantastic Four #52 (cover-dated July        1966) in the Silver Age of Comic Books. Black Panther's real name is T'Challa, king and protector of the fictional African      nation of Wakanda.</p>
   
   <p> View more <a target="_blank" href="https://br.pinterest.com/hleefranks/black-panther-marvel/">Black Panther pictures</a></p>
+</br>
   <div>
   <p>Team affiliations</p>
   
@@ -70,6 +76,7 @@
 <button type="submit">Submit
 </button>
 </br>
+    
  <br>
  <label for="indoor"> 
  <input id="indoor" type="radio" name="indoor-outdoor"checked>Indoor 
@@ -94,7 +101,9 @@
  </br>
 </form>
 </div>
- <!--That form isn't showing in the preview. I need to make a pull request or an issue... I just need some help.--> </br>
+ <!-- Just in case--> 
 </main>
 </body>
 </html>
+
+
