@@ -7,10 +7,10 @@
 </head>
  
  <body>
- <link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">
+ <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
   
- html {font-family: "Kanit Thin";}
+ html {font-family: "Kanit Thin", "Zilap Africa";}
   
  h1 {font-size: 30px;}
   
@@ -105,5 +105,6 @@
 </main>
 </body>
 </html>
+
 
 
