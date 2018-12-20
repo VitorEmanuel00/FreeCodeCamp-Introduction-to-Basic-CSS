@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class= "silver-background">
 <!-- Introduction-to-Basic-CSS-->
 <head class='purple-text'>
 <h1 id= "Wakanda forever"> Wakanda Forever
@@ -9,9 +9,12 @@
  <body>
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
- .thick-purple-border {border-color: purple; border-width: 5px; border-style: solid; border-radius: 10px; border-radius: 50%;}
+
+.silver-background {background-color: silver;}
+
+.thick-purple-border {border-color: purple; border-width: 5px; border-style: solid; border-radius: 10px; border-radius: 50%;}
   
- .smaller-image { width: 300px;}
+  .smaller-image { width: 300px;}
   
  html {font-family: "Kanit Thin", "Zilap Africa";}
   
@@ -113,8 +116,6 @@
 </main>
 </body>
 </html>
-
-
 
 
 
