@@ -9,7 +9,7 @@
  <body>
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
- .thick-purple-border {border-color: purple; border-width: 5px; border-style: solid;}
+ .thick-purple-border {border-color: purple; border-width: 5px; border-style: solid; border-radius: 10px;}
   
  .smaller-image { width: 300px;}
   
@@ -24,6 +24,8 @@
  </style>
 <h2 class='purple-text'>Black Panther
 </h2>
+
+
 <main>
  <br>
   <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags" class="smaller-image thick-purple-border"> </a> 
@@ -108,6 +110,3 @@
 </main>
 </body>
 </html>
-
-
-
