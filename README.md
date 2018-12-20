@@ -9,7 +9,7 @@
  <body>
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
- .thick-purple-border {border-color: purple; border-width: 5px; border-style: solid; border-radius: 10px;}
+ .thick-purple-border {border-color: purple; border-width: 5px; border-style: solid; border-radius: 10px; border-radius: 50%;}
   
  .smaller-image { width: 300px;}
   
@@ -63,14 +63,15 @@
   <p>Enemies:</p>
 
   <ol>   
-      <li>Erik Killmonger</li>
+
+      <li>Erik Killmonger <a href="#"><img src="https://i.annihil.us/u/prod/marvel/i/mg/4/30/5a14593f84f68/clean.jpg" alt="Erik Killmonger and Black Panther fighting" class="smaller-image thick-purple-border"></a> </li>
       <li>Man-Ape</li>
       <li>Klaw</li>
   </ol>
   
   </div>
   
-  <a href="#"></a>
+  
   
   <a href = "#wakanda forever"> WF</a>
   <br>
@@ -110,3 +111,7 @@
 </main>
 </body>
 </html>
+
+
+
+
