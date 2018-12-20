@@ -80,7 +80,7 @@
   <a href = "#wakanda forever"> WF</a>
   <br>
   <div>
-<form action="/submit-afrofuturist-picture">
+<form id= "black-panther-form" action="/submit-afrofuturist-picture">
 <br>
 <input type="text" required placeholder="Afrofuturism URL"> 
 <button type="submit">Submit
