@@ -10,6 +10,8 @@
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
 
+#black-panther-form {background-color:purple;}
+
 .silver-background {background-color: silver;}
 
 .thick-purple-border {border-color: purple; border-width: 5px; border-style: solid; border-radius: 10px; border-radius: 50%;}
@@ -80,7 +82,7 @@
   <a href = "#wakanda forever"> WF</a>
   <br>
   <div>
-<form id= "black-panther-form" action="/submit-afrofuturist-picture">
+<form id= "black-panther-form" background-color="purple" action="/submit-afrofuturist-picture">
 <br>
 <input type="text" required placeholder="Afrofuturism URL"> 
 <button type="submit">Submit
