@@ -45,6 +45,7 @@
 
 <br>
   <p>Black Panther is the first superhero of African descent in mainstream American comics, having debuted years before early      African American superheroes such as Marvel Comics' the Falcon (1969), Luke Cage (1972) and Blade (1973), or DC Comics' John    Stewart in the role of Green Lantern (1971).</p>
+<a href="#"><img src="https://i.annihil.us/u/prod/marvel/i/mg/4/30/5a14593f84f68/clean.jpg" alt="Erik Killmonger and Black Panther fighting" class="smaller-image thick-purple-border"></a>
   
   <p>The character was        created by writer-editor Stan Lee and writer-artist Jack Kirby, first appearing in Fantastic Four #52 (cover-dated July        1966) in the Silver Age of Comic Books. Black Panther's real name is T'Challa, king and protector of the fictional African      nation of Wakanda.</p>
   
@@ -64,7 +65,7 @@
 
   <ol>   
 
-      <li>Erik Killmonger <a href="#"><img src="https://i.annihil.us/u/prod/marvel/i/mg/4/30/5a14593f84f68/clean.jpg" alt="Erik Killmonger and Black Panther fighting" class="smaller-image thick-purple-border"></a> </li>
+      <li>Erik Killmonger </li>
       <li>Man-Ape</li>
       <li>Klaw</li>
   </ol>
@@ -107,10 +108,13 @@
  </br>
 </form>
 </div>
+
  <!-- Just in case--> 
 </main>
 </body>
 </html>
+
+
 
 
 
