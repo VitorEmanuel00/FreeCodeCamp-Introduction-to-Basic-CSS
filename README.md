@@ -9,12 +9,15 @@
  <body>
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
-
 body {
-    background-color:black;
-    color: gray;
-    <!--font-family: ;-->
+    background-color: black;
+    font-family: monospace;
+    color: blue;
   }
+
+  .blue-text {
+    color: blue;
+ }
  [type='checkbox'] {
   margin: 15px 0px 10px 0px;
 }
