@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html class= "silver-background">
 <!-- Introduction-to-Basic-CSS-->
 <head class='purple-text'>
@@ -9,6 +9,10 @@
  <body>
  <!--<link href="https://fonts.googleapis.com/css?family= Kanit Thin" rel="stylesheet" type="text/css">-->
  <style> 
+
+ [type='checkbox'] {
+  margin: 15px 0px 10px 0px;
+}
 
 #black-panther-form {background-color:purple;}
 
@@ -118,7 +122,3 @@
 </main>
 </body>
 </html>
-
-
-
-
