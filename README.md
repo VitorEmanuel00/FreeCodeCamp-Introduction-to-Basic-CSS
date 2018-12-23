@@ -11,8 +11,10 @@
  <style> 
 
 body {
-  background-color: grey;}
-
+    background-color:black;
+    color: gray;
+    <!--font-family: ;-->
+  }
  [type='checkbox'] {
   margin: 15px 0px 10px 0px;
 }
